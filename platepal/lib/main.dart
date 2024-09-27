@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:platepal/pages/home.dart';
 
+
 void main() {
   runApp(const MyApp());
 }
